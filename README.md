@@ -1,5 +1,6 @@
 # Phase 2 Code Challenge: Plantsy
-
+#### Final Product
+![alt text](Plantsy.png)
 ## Demo
 
 Use this gif as an example of how the app should work.
